@@ -24,7 +24,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("Desechad tristezas y melancolías. La vida es amable, tiene pocos días y tan sólo ahora la hemos de gozar");
         }
     }
 }
